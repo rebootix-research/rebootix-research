@@ -89,4 +89,4 @@ If you are building for national resilience, defense capability, industrial mode
 For strategic collaboration, institutional partnerships, and infrastructure-level deployment discussions:
 
 - Open a channel: [Create an issue](https://github.com/rebootix-research/rebootix-research/issues/new)
-- Organization: [github.com/rebootix-research](https://github.com/rebootix-research)
+- Organization: [https://rebootix-research.com/)
