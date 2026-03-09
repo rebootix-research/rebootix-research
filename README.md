@@ -1,83 +1,61 @@
-﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1020,100:0D47A1&text=REBOOTIX&fontColor=FFFFFF&fontAlignY=38&fontSize=56&desc=Architecting%20Sovereign%20Intelligence%20and%20Deterministic%20AI%20Infrastructure&descAlignY=58&descSize=18" alt="Rebootix banner" />
-</p>
+﻿# Rebootix Artificial Intelligence Research and Development
 
-<h1 align="center">Rebootix Artificial Intelligence Research and Development</h1>
-<p align="center"><strong>From probabilistic AI dependence to sovereign, verifiable, industrial intelligence.</strong></p>
+**Architecting sovereign intelligence and deterministic AI infrastructure.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rebootix-research&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/rebootix-research?tab=followers"><img src="https://img.shields.io/github/followers/rebootix-research?label=Followers&style=social" alt="followers" /></a>
-  <img src="https://img.shields.io/badge/Model-Deterministic%20Verification-0A66C2" alt="deterministic verification" />
-  <img src="https://img.shields.io/badge/Data%20Policy-Zero%20Egress-16a34a" alt="zero egress" />
-  <img src="https://img.shields.io/badge/Architecture-Sovereign%20by%20Design-7c3aed" alt="sovereign by design" />
-</p>
+From probabilistic model dependence to verifiable cognitive infrastructure.
 
-## The Rebootix Thesis
-The current AI stack forces enterprises and nation-scale institutions to run critical cognition through external, probabilistic black boxes. Rebootix was founded to engineer the replacement: AI-native sovereign infrastructure that is deterministic, cryptographically auditable, and economically actionable.
+---
 
-We do not build wrappers around borrowed intelligence. We design deep-stack systems, from bare metal up to the cognitive orchestration kernel.
+## Thesis
+The current AI paradigm is not acceptable for high-stakes environments.  
+Critical systems cannot rely on opaque, external, probabilistic execution.
 
-## Strategic Doctrine
-| Doctrine | What We Engineer | Why It Matters |
-|---|---|---|
-| Deterministic Verification | Neuro-symbolic pipelines with logical and cryptographic constraints | Outputs are reproducible, auditable, and operationally reliable |
-| Absolute Data Sovereignty | Zero-egress perimeter architectures and localized data gravity | Critical IP and strategic data never leave trusted boundaries |
-| Deep-Stack Mastery | Bare-metal optimization and immutable AI-native operating environments | Full control over performance, security, and execution behavior |
-| Economic Determinism | AI systems that produce investment-grade, execution-ready plans | Intelligence becomes an industrial and capital allocation engine |
+Rebootix builds infrastructure where intelligence is:
+- deterministic in operation
+- cryptographically auditable
+- sovereign by design
+- economically actionable
 
-## Flagship Systems
-### 1) VIKI OS - AI-Native Operating System
-- Linux-based immutable architecture using OSTree/rpm-ostree.
-- WASM-first sandboxing model for sovereign-grade isolation.
-- Human intent elevated to a first-class system primitive.
-- Native orchestration of complex multi-step agent workflows.
+---
 
-### 2) OMEGA-1 - Sovereign Industrial Protocol
-- Strategic decision engine for national and industrial autonomy.
-- Generates ready-to-fund factory and logistics blueprints.
-- Every strategic path guarded by immutable SHA-256 auditability.
+## Doctrine
+| Principle | Implementation |
+|---|---|
+| Deterministic Verification | Neuro-symbolic execution with logical and cryptographic constraints |
+| Absolute Data Sovereignty | Zero-egress architecture and localized data gravity |
+| Deep-Stack Control | Bare-metal optimization and immutable AI-native operating systems |
+| Economic Determinism | Output designed for industrial deployment and capital execution |
 
-### 3) Viki Code - Vibe Coding Infrastructure
-- Orchestrates specialist sub-agents for syntax, debugging, and execution.
-- Enables natural language as a high-level compiler for engineering intent.
-- Keeps the human architect in control of logic and direction.
+---
 
-### 4) OMEGA_250 - Tactical Edge Intelligence
-- Fleet of hyper-optimized tiny fine-tuned models for edge inference.
-- Designed for low-latency anomaly detection and predictive operations.
-- Preserves data gravity without external cloud dependence.
+## Systems
+### VIKI OS
+AI-native operating system built on immutable Linux architecture with WASM-first isolation.
 
-## OMEGA-1 Tripartite Cognitive Kernel
-- **Explorer**: Data ingestion, discovery, and pattern recognition.
-- **Planner**: Strategy synthesis, logistics mapping, and capital pathways.
-- **Guard**: Logical verification, policy constraints, and cryptographic audit.
+### OMEGA-1
+Sovereign industrial protocol for strategy synthesis, logistics mapping, and deterministic planning.
 
-## Engineering Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,python,go,rust,ts,nodejs,sqlite,postgres,aws,git,github" alt="engineering stack" />
-</p>
+### Viki Code
+Natural-language-first engineering workflow orchestrating specialized sub-agents for execution.
 
-Primary stack themes: immutable systems, secure orchestration, neuro-symbolic reasoning, and deterministic execution pipelines.
+### OMEGA_250
+Tiny fine-tuned edge models for low-latency sensing, anomaly detection, and real-time autonomy.
 
-## GitHub Pulse
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rebootix-research&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebootix-research&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
-</p>
+---
 
-## Strategic Engagement
-Rebootix is building the infrastructure layer for sovereign cognitive compute.  
-We are open to high-trust collaborations with defense, industrial, and critical infrastructure partners seeking deterministic AI autonomy.
+## OMEGA-1 Cognitive Kernel
+- **Explorer**: ingest, map, and discover strategic patterns
+- **Planner**: synthesize strategies and execution pathways
+- **Guard**: enforce logical validity and cryptographic audit integrity
 
-- Partnership inquiries: [Open an issue](https://github.com/rebootix-research/rebootix-research/issues/new)
-- Profile: [github.com/rebootix-research](https://github.com/rebootix-research)
+---
 
-<details>
-<summary><strong>Expanded Positioning</strong></summary>
+## Technical Focus
+`linux` `immutable-systems` `wasm-sandboxing` `neuro-symbolic-ai` `multi-agent-orchestration` `edge-inference` `cryptographic-audit`
 
-Rebootix asserts that AI systems in high-stakes environments must move beyond probabilistic dependency.  
-Our architecture enforces deterministic and verifiable intelligence, localized data control, and deep-stack sovereignty from hardware through orchestration kernel.  
-The mission is not conversational novelty. The mission is industrial autonomy and strategic execution.
+---
 
-</details>
+## Engagement
+Rebootix collaborates with serious operators in defense, industry, and critical infrastructure where sovereignty, security, and deterministic execution are mandatory.
+
+Partnership channel: [Open an issue](https://github.com/rebootix-research/rebootix-research/issues/new)
