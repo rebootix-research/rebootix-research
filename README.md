@@ -710,7 +710,7 @@ Sovereign AI built for national institutional deployment.
 <td width="25%" align="center">
 <br/>
 <strong>Accelerators</strong><br/>
-Hub71 · YC · ADIO · Deep Tech
+ Deep Tech ,Accelerators
 <br/><br/>
 Deep-tech infrastructure with hardware, doctrine, and products.
 <br/><br/>
